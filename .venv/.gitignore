@@ -1,25 +1,7 @@
-# Virtual environment
-.venv/
-pyenv.cfg
+# Ignore everything
+*
+!.gitignore
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Python cache files
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# Distribution / packaging
-*.egg-info/
-dist/
-build/
-
-# IDE
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
+# Allow these files
+!requirements.txt
+!single_systems.ipynb
