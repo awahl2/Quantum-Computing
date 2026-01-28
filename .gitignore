@@ -3,5 +3,6 @@
 !.gitignore
 
 # Allow these files
+!README.md
 !requirements.txt
 !single_systems.ipynb
